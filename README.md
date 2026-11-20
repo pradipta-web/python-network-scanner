@@ -102,7 +102,7 @@ Only scan networks that you own or have explicit permission to examine.
 
 ## 👨‍💻 Author
 
-**Pradipta Raditya**
+**Kinervaaa**
 
 GitHub: [@pradipta-web](https://github.com/pradipta-web)
 
